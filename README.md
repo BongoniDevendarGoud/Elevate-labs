@@ -19,3 +19,41 @@ Port	Service	Risks	Mitigation
 🛡️ Conclusion
 
 The analysis demonstrates how an attacker could exploit exposed services if proper mitigations are not in place. Applying security best practices such as patch management, protocol hardening, encryption, and access restriction can significantly reduce risks.
+
+# README - Phishing Email Analysis Task
+
+## Project Overview
+
+This project involves analyzing a phishing email sample to identify key indicators of phishing attacks. The purpose of this task is to develop awareness of phishing tactics and improve skills in email threat analysis.
+
+## Files Included
+
+1. **Phishing\_Email\_Analysis\_Report\_Professional.pdf** - A detailed report analyzing the phishing email sample, including sender analysis, header inspection, suspicious links, attachments, urgent language, grammar/spelling checks, phishing traits summary, and answers to relevant interview questions.
+2. **Email Sample** - The phishing email content used for analysis.
+
+## Steps Performed
+
+1. Obtained a sample phishing email from a reliable source.
+2. Examined the sender's email address for spoofing or domain discrepancies.
+3. Analyzed email headers for SPF, DKIM, DMARC, and IP inconsistencies.
+4. Identified suspicious links and attachments.
+5. Checked the email body for urgent/threatening language.
+6. Verified spelling and grammar to detect phishing cues.
+7. Summarized phishing traits in a structured table.
+8. Answered key interview questions related to phishing and email security.
+
+## Tools Used
+
+* Email client (to view full email headers)
+* MXToolbox Email Header Analyzer (online tool)
+* FPDF (Python library for PDF generation)
+* Text editor for documentation
+
+## Purpose
+
+This project demonstrates:
+
+* Understanding of phishing and email spoofing
+* Skills in identifying phishing indicators
+* Knowledge of social engineering tactics
+
